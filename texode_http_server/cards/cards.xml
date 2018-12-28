@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Cards>
+  <Card>
+    <Title>Effective Modern C++</Title>
+    <Image size="166897">636816146544316101_4b431f56-578c-4341-b89b-bc2af484dcbf</Image>
+  </Card>
+  <Card>
+    <Title>The C programming language</Title>
+    <Image size="135887">636816145803846342_e0c291ed-2a2b-4b88-bb26-a3b490a0b639</Image>
+  </Card>
+  <Card>
+    <Title>Пандемия история смертельных вирусов</Title>
+    <Image size="60420">636816144215960806_529004b3-48db-49f6-80e8-f93451abba69</Image>
+  </Card>
+  <Card>
+    <Title>History of Belarus (school book)</Title>
+    <Image size="105232">636816348536253688_cdb56ea7-302f-4df1-a076-6e4396f4df91</Image>
+  </Card>
+</Cards>

@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+  <section name="path">
+    <key name="path_to_file">./cards/cards.xml</key>
+  </section>
+</configuration>
+<!--Path to file in xml with prefix .xml
+    Path from current dictionary--> 
